@@ -1,3 +1,4 @@
-# codecademy
-My work done on codecademy
-Welcome.
+# Codecademy
+My work done on Codecademy
+Thank you for visiting.
+
