@@ -1,0 +1,105 @@
+/* CSS Document */
+
+/* General */
+*{
+	font-family:"Helvetica";
+}
+
+p{
+	font-size: 20px;
+}
+strong{
+	color: blue;
+	font-weight: bold;
+}
+
+main {
+	width: 100%;
+}
+
+/* Header */
+header{
+		background-image: url("C:/Users/cremel2/Desktop/site1/resources/images/pattern.jpeg");
+		height: auto;
+		margin: 0 auto;
+		width: 100%;
+}
+
+header h1 {
+	font-size: 100px;
+	color:khaki;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px;
+}
+
+nav{
+		background-color: rgba(255, 255, 255, 0.5);
+		right: 0;
+		width: 100%;
+}
+
+nav li{
+	font-size: 30px;
+	display: inline-block;
+	margin: 10px 30px;
+  border: 5px solid white;
+	border-radius: 20px;
+	background-color: white;
+	font-weight: bold;
+}
+
+nav li a{
+		color: green;
+		text-decoration: none;
+
+}
+nav li a:hover{
+	color: khaki;
+}
+
+/* Titles */
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+.brushes h2{
+	background-color: mediumspringgreen;
+}
+.frames h2{
+	background-color: lightcoral;
+}
+
+.paint h2{
+	background-color: skyblue;
+}
+
+h3 {
+	font-weight: bold;
+	font-size:25px;
+}
+
+/* Images */
+
+img{
+	border: 5px solid white;
+	border-radius: 50px;
+}
+
+/* Footer */
+footer{
+		background-color: khaki;
+		height: auto;
+		margin: 0 auto;
+		width:100%;
+}
+
+footer p{
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+	padding: 15px;
+}
+
+/* by mxcrml - feb 2022 */
